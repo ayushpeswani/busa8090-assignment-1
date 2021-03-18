@@ -1,1 +1,3 @@
-# busa8090-assignment-1
+# BUSA8090 Assignment 1
+Ayush Peswani
+46178813
