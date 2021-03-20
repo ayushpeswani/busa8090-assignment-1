@@ -29,7 +29,7 @@ fi
 # executes the command in a subshell environment, and then substitutes this command 
 # with it standard output. This output i then assigned to a variable.
 minutes=$(date +"%M")
-minutes=59
+
 echo $minutes
 
 if [ "$minutes" -ge 0 ] && [ "$minutes" -lt 20 ]; then
